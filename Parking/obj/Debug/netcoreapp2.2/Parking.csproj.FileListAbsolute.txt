@@ -1,0 +1,10 @@
+C:\Users\Souvik Mazumder\source\repos\Parking\Parking\bin\Debug\netcoreapp2.2\Parking.deps.json
+C:\Users\Souvik Mazumder\source\repos\Parking\Parking\bin\Debug\netcoreapp2.2\Parking.runtimeconfig.json
+C:\Users\Souvik Mazumder\source\repos\Parking\Parking\bin\Debug\netcoreapp2.2\Parking.runtimeconfig.dev.json
+C:\Users\Souvik Mazumder\source\repos\Parking\Parking\bin\Debug\netcoreapp2.2\Parking.dll
+C:\Users\Souvik Mazumder\source\repos\Parking\Parking\bin\Debug\netcoreapp2.2\Parking.pdb
+C:\Users\Souvik Mazumder\source\repos\Parking\Parking\obj\Debug\netcoreapp2.2\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Souvik Mazumder\source\repos\Parking\Parking\obj\Debug\netcoreapp2.2\Parking.AssemblyInfoInputs.cache
+C:\Users\Souvik Mazumder\source\repos\Parking\Parking\obj\Debug\netcoreapp2.2\Parking.AssemblyInfo.cs
+C:\Users\Souvik Mazumder\source\repos\Parking\Parking\obj\Debug\netcoreapp2.2\Parking.dll
+C:\Users\Souvik Mazumder\source\repos\Parking\Parking\obj\Debug\netcoreapp2.2\Parking.pdb
